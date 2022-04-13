@@ -86,7 +86,7 @@ Instead of attempting to make up for the delay and send the remaining 4,000 mess
 |6|10,000|10,000|
 |7|10,000|10,000|
 |8|5,000|10,000|
-|9|0|6,000|
+|9|0|1,000|
 {: .reset-td-br-1 .reset-td-br-2 .reset-td-br-3}
 
 #### Multichannel campaigns
