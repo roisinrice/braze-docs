@@ -25,7 +25,7 @@ This integration will create alias user profiles if we are unable to match Shopi
 | ----------- | ----------- |
 | Shopify store | You must have an active [Shopify](https://www.shopify.com) store.<br><br>Note that at this time, you are only able to connect one Shopify store per app group. |
 | Event property segmentation enabled | To ensure you can segment your Shopify events properties, you must work with your customer success manager or [Braze support]({{site.baseurl}}/braze_support/) to confirm that you have event property segmentation enabled for your dashboard. |
-| Nested custom attribute support | This will be enabled with the Spotify integration.<br><br>You will be given access to this feature to receive Shopify marketing opt-in custom attributes. |
+| Nested custom attribute support | This will be enabled with the Shopify integration.<br><br>You will be given access to this feature to receive Shopify marketing opt-in custom attributes. |
 {: .reset-td-br-1 .reset-td-br-2}
 
 ## What's supported in the integration?
