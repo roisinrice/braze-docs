@@ -151,7 +151,7 @@ Authorization: Bearer YOUR-REST-API-KEY
 }
 ```
 
-This example contains two User Attribute objects of the allowed 75 per API call.
+This example contains three User Attribute objects of the allowed 75 per API call.
 
 
 [2]: {{site.baseurl}}/user_guide/data_and_analytics/user_data_collection/language_codes/
